@@ -6,8 +6,8 @@ treePath = 'trees/'
 mmToPx = 2.83464102564
 
 #the sheet dimensions in mm
-sheetx = 1010
-sheety = 780
+sheetx = 600
+sheety = 300
 
 #the tree dimensions in mm
 treex = 80
