@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {0} {1}" id='svg' width='{0}mm' height='{1}mm'>
+<style type="text/css">
+	{2}
+</style>
+{3}
+</svg>
